@@ -61,6 +61,10 @@
       "prettier-plugin-organize-imports"
     ]
   },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.8",
+    "react-native-url-polyfill": "^2.0.0"
+  },
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
